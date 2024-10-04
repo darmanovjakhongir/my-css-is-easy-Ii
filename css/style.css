@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.col {
+  padding: 30px;
+  border: 1px solid #000000;
+  border-radius: 10px;
+}
+.header {
+  background-color: #fd7e14;
+  font-weight: bold;
+}
+.main {
+  background-color: #007bff;
+}
+.sidebar {
+  background-color: #dc3545;
+}
+.footer {
+  background-color: #28a745;
+}
+.container-fluid {
+  max-width: inherit;
+  width: 100%;
+}
